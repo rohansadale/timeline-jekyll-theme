@@ -1,0 +1,7 @@
+---
+layout: null
+title: July 2012 - July 2015
+subtitle:
+image: "img/timeline/barclays.png"
+---
+Technology Analyst @ [Barclays](https://www.barclays.com/)

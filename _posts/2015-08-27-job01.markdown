@@ -1,0 +1,7 @@
+---
+layout: null
+title: August 2015 - June 2017
+subtitle:
+image: "img/timeline/umn.jpg"
+---
+M.S. (Data Science) @ [UMN](https://twin-cities.umn.edu/)

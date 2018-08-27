@@ -1,0 +1,7 @@
+---
+layout: null
+title: July 2017 - Present
+subtitle:
+image: "img/timeline/veritas.png"
+---
+Software Engineer @ [Veritas Technologies](https://www.veritas.com/)

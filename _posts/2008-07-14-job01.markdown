@@ -1,0 +1,7 @@
+---
+layout: null
+title: July 2008 - May 2012
+subtitle:
+image: "img/timeline/coep.jpg"
+---
+B.Tech. (Computer Engineering) @ [COEP](http://www.coep.org.in/)
